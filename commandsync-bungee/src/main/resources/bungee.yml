@@ -1,0 +1,4 @@
+name: commandsync
+version: ${project.version}
+main: me.ponktacology.commandsync.bungee.CommandSyncPlugin
+author: ponktacology

@@ -1,0 +1,6 @@
+name: commandsync
+version: ${project.version}
+main: me.ponktacology.commandsync.bukkit.CommandSyncPlugin
+author: ponktacology
+commands:
+  sync:
